@@ -1,7 +1,7 @@
 - ⛅️ Hi, I’m @Ekeulseuji
-- ⛅️ I’m interested in DS/AI-Media/Statistics/DigitalHealthcare...Kpop!
-- ⛅️ I’m currently learning ... C++/Python/AI/ML...
-- ⛅️ I’m looking to collaborate on ...？
+- ⛅️ I’m interested in Kpop
+- ⛅️ I’m currently learning nothing
+- ⛅️ I’m looking to collaborate on my homework
 - ⛅️ How to reach me？ ⛅️ e-mail Amp870x3@gmail.com ⛅️ +86 15970622235 ⛅️ WeChat ekeulsuji
 
 <!---
