@@ -1,27 +1,29 @@
 
 <p align="center">
 <div style="width:100%; text-align:center;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=header&text=Ekeulseuji&fontSize=25&fontAlign=50&fontAlignY=30&desc=关注我助力主播走上人生之巅&descAlign=50&descSize=10&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&&section=header&text=Ekeulseuji&fontSize=25&fontAlign=50&fontAlignY=30&desc=关注我助力主播走上人生之巅&descAlign=50&descSize=10&descAlignY=60&animation=twinkling" />
 </p>
-
-
-★ :smiling_imp: Check out my [portfolio](https://ekeulseuji.github.io/ "myacademicpage"), or maybe you want a brief introduction about me ↓↓↓
-
-★ :mouse: I’m currently a MS student majoring in medtech @ PKUHSC
-
-★ :purple_heart: I’m working on projects in the areas of dsml4omics and control theory
-
-★ :speech_balloon: How to reach me? ★ E-mail gaoxiaoya@u.nus.edu ★ Tel +86 15970622235 ★ WeChat ekeulseuji
-
-★ :shell: Try my playlist 
-
-$\hspace{20pt}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jc2g5rdqkrszod7hjdgvkej5vy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=b021ba&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+<!--
+<div align="right">
+</div>
+-->
+<p style="line-height: 0.5;">
+  
+  ★ :smiling_imp: Check out my [portfolio](https://ekeulseuji.github.io/ "myacademicpage"), or maybe you want a brief introduction about me ↓↓↓ <br> 
+  ★ :mouse: I’m currently a MS student majoring in medtech @ PKUHSC <br>
+  ★ :purple_heart: I’m working on projects in the areas of dsml4omics and control theory <br>
+  ★ :speech_balloon: How to reach me? ★ E-mail gaoxiaoya@u.nus.edu ★ Tel +86 15970622235 ★ WeChat ekeulseuji <br>
+  ★ :shell: Try my playlist <br>
+  $\hspace{18pt}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jc2g5rdqkrszod7hjdgvkej5vy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=b021ba&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <br>
+  
 <div align="right">
   
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-
+  
 </div>
+</p>
+
+
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=matlab,py,pytorch,r,latex,mysql,pr)](https://skillicons.dev) -->
 
